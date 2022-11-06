@@ -1,0 +1,13 @@
+.converter{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+
+    .input{
+        flex-basis: 90%;
+        margin-right: 15px;
+    }
+    .input_btn{
+        flex-basis: 20%
+    }
+}
