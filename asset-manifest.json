@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/convertCurrencies/static/css/main.51adf2b6.css",
+    "main.js": "/convertCurrencies/static/js/main.323fb238.js",
+    "index.html": "/convertCurrencies/index.html",
+    "main.51adf2b6.css.map": "/convertCurrencies/static/css/main.51adf2b6.css.map",
+    "main.323fb238.js.map": "/convertCurrencies/static/js/main.323fb238.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51adf2b6.css",
+    "static/js/main.323fb238.js"
+  ]
+}
